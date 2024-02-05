@@ -34,6 +34,3 @@ This project involves the integration of the "Reservia" website as part of the O
 
 ## Version Control 🔄
 The code is versioned using Git, with a remote repository hosted on [Github/Gitlab].
-
----
-*Note: This Markdown file provides an organized overview of the Reservia project, its details, and the structure of the repository, with some additional emojis to highlight key points.*
