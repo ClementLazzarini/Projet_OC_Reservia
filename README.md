@@ -31,7 +31,6 @@ This project involves the integration of the "Reservia" website as part of the O
 ## Repository Structure 📂
 - `index.html`: Main HTML file.
 - `style.css`: Main CSS file.
-- `assets/`: Folder containing project assets.
 
 ## Version Control 🔄
 The code is versioned using Git, with a remote repository hosted on [Github/Gitlab].
